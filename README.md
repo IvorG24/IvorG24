@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivorg24&label=Profile%20views&color=0e75b6&style=flat" alt="ivorg24" /> </p>
 
 - 📫 How to reach me **markivor.glorioso@gmail.com**
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivor-glorioso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivor-glorioso/" height="30" width="40" /></a>
